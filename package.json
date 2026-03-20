@@ -1,0 +1,19 @@
+{
+  "name": "webmod-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
+```
+
+---
+
+**3. `README.md`** (optional but good practice)
+```
+# WebMod Server
+WebMod multiplayer server
